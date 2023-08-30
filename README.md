@@ -1,2 +1,1 @@
-# prepcurse-henry
-este es un repositorio de prueba
+este proyecto es una prueba de inicio 
